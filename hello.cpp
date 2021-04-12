@@ -7,7 +7,7 @@ class C1
 public:
     void Prt(ostream& out)
     {
-        out << value;
+        out << value << endl;
     }
 }
 
